@@ -22,10 +22,10 @@ Abaixo estão as principais partes do sistema e sua funcionalidade:
 3. **Persistência de Dados**:
    - Utiliza um banco de dados simples para armazenar o histórico de chats e manter o contexto entre as conversas.
   
-   - ##Práticas:
-   - ##Chat
+#Práticas:
+#Chat
   <img width="1848" height="464" alt="image" src="https://github.com/user-attachments/assets/fa89bcb1-45b0-43f1-b1fd-2c689c0359c4" />
-  ## Memória
+  # Memória
   <img width="1256" height="877" alt="image" src="https://github.com/user-attachments/assets/adf0f950-c1d1-4026-88ae-509892e69734" />
 
   
