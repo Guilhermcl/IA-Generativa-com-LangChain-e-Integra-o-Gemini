@@ -22,7 +22,7 @@ Abaixo estão as principais partes do sistema e sua funcionalidade:
 3. **Persistência de Dados**:
    - Utiliza um banco de dados simples para armazenar o histórico de chats e manter o contexto entre as conversas.
 
-## Como Executar o Projeto
+### Como Executar o Projeto
 
 Siga as instruções abaixo para executar o projeto em seu ambiente local:
 
