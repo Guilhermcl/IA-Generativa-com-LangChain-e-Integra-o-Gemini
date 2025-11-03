@@ -38,17 +38,13 @@ CLAUDE_API_KEY = "SUA_CHAVE_CLAUDE"
 
 LangChain: Framework para integração de LLMs e ferramentas.
 
-OpenAI GPT: Modelo de linguagem da OpenAI.
-
 Google Gemini: Modelo de linguagem do Google.
 
-Claude: Modelo de linguagem da Anthropic.
-
-APIs externas: Integração com diversas APIs para funcionalidades adicionais.
+Pyhton : Linguagem de programação responsável pelo desenvolvimento.
 
 ## Contato
-Se você tiver alguma dúvida ou sugestão, não hesite em me contactar através do LinkedIn ou GitHub.
-linkedIn:<img width="836" height="829" alt="image" src="https://github.com/user-attachments/assets/8a6116c3-e85a-4e30-9260-201437f901e8" />
+Se você tiver alguma dúvida ou sugestão,pode me contactar através do LinkedIn.
+<img width="836" height="829" alt="image" src="https://github.com/user-attachments/assets/8a6116c3-e85a-4e30-9260-201437f901e8" />
 
 
 ---
