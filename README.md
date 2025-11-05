@@ -68,4 +68,4 @@ Siga as instruções abaixo para executar o projeto em seu ambiente local:
 ### 1. Clonar o Repositório
 ```bash
 git clone https://github.com/Guilhermecl/IA-Generativa-com-LangChain-e-Gemini.git
-cd IA-Generativa-com-LangChain-e-Gemini****
+
